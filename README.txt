@@ -1,4 +1,5 @@
-	BCE release 6.x <http://github.com/xiaojsoft/bce>
+# Original BCE-fx README
+BCE release 6.x <http://github.com/xiaojsoft/bce>
 
 These are the release notes for BCE version 6. Read them carefully, as they tell you what this is all about, explain how to compile and use the kernel, and what to do if something goes wrong.
 
@@ -33,3 +34,6 @@ COMPILING the shell:
 
 ABOUT FX-9860 PORT
     - BY ANDERAIN LOVELACE
+
+# ADDITION:
+BCE-study is an attempt to study the BCE-fx code to then use it and port it over to the Classpad 400 via HHK
